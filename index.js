@@ -1,4 +1,4 @@
-let x = 100;
+let x = 200;
 let y = 50;
 
 document.getElementById("myH1").textContent = "x + y is: " + (x+y);
